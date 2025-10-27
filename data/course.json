@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "legacy_uid": "f85985b6-a158-4cbd-d904-06faf916fd10",
+  "instructors": {
+    "content": [
+      "759c2b14-ff16-0e9f-3634-57cce8455750"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e39d4f24-e668-c1de-e6df-6b748020a783",
+    "website": "12-581-phase-transitions-in-the-earths-interior-spring-2005"
+  },
+  "course_title": "Phase Transitions in the Earth's Interior",
+  "course_description": "This course discusses phase transitions in Earth's interior. Phase transitions in Earth materials at high pressures and temperatures cause the seismic discontinuities and affect the convections in the Earth's interior. On the other hand, they enable us to constrain temperature and chemical compositions in the Earth's interior. However, among many known phase transitions in mineral physics, only a few have been investigated in seismology and geodynamics. This course reviews important papers about phase transitions in mantle and core materials.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.581",
+  "course_image_thumbnail": {
+    "content": "47e2d182-b419-4557-592b-afc64de575b1",
+    "website": "12-581-phase-transitions-in-the-earths-interior-spring-2005"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "2e517fa5-4f73-4c83-bc29-093a5dba5fd3",
+  "site_short_id": "12.581-spring-2005",
+  "site_url_path": "courses/12-581-phase-transitions-in-the-earths-interior-spring-2005",
+  "title": "Course Metadata"
+}
